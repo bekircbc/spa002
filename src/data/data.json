@@ -1,14 +1,14 @@
 [
   {
-    "firstName": "John",
-    "lastName": "Doe",
+    "firstName": "Jill",
+    "lastName": "Whitney",
     "age": 34,
     "picturesrc": "images/employee_1.jpg",
     "abteilung": "HR",
     "id": 1
   },
   {
-    "firstName": "Allan",
+    "firstName": "Anna",
     "lastName": "Schmidt",
     "age": 29,
     "picturesrc": "images/employee_2.jpg",
@@ -16,59 +16,59 @@
     "id": 2
   },
   {
-    "firstName": "Jessica",
-    "lastName": "Downey",
+    "firstName": "Sally",
+    "lastName": "Doerssy",
     "age": 44,
     "picturesrc": "images/employee_3.jpg",
     "abteilung": "Einkauf",
     "id": 3
   },
   {
-    "firstName": "John",
-    "lastName": "Doe",
+    "firstName": "Valentine",
+    "lastName": "Sagorby",
     "age": 34,
-    "picturesrc": "images/employee_1.jpg",
+    "picturesrc": "images/employee_4.jpg",
     "abteilung": "HR",
-    "id": 1
+    "id": 4
+  },
+  {
+    "firstName": "Fredrih",
+    "lastName": "Scholles",
+    "age": 29,
+    "picturesrc": "images/employee_5.jpg",
+    "abteilung": "IT",
+    "id": 5
+  },
+  {
+    "firstName": "Mehmet",
+    "lastName": "Arp",
+    "age": 44,
+    "picturesrc": "images/employee_6.jpg",
+    "abteilung": "Einkauf",
+    "id": 6
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "O'Connor",
+    "age": 34,
+    "picturesrc": "images/employee_7.jpg",
+    "abteilung": "HR",
+    "id": 7
   },
   {
     "firstName": "Allan",
     "lastName": "Schmidt",
     "age": 29,
-    "picturesrc": "images/employee_2.jpg",
+    "picturesrc": "images/employee_8.jpg",
     "abteilung": "IT",
-    "id": 2
+    "id": 8
   },
   {
     "firstName": "Jessica",
     "lastName": "Downey",
     "age": 44,
-    "picturesrc": "images/employee_3.jpg",
+    "picturesrc": "images/employee_9.jpg",
     "abteilung": "Einkauf",
-    "id": 3
-  },
-  {
-    "firstName": "John",
-    "lastName": "Doe",
-    "age": 34,
-    "picturesrc": "images/employee_1.jpg",
-    "abteilung": "HR",
-    "id": 1
-  },
-  {
-    "firstName": "Allan",
-    "lastName": "Schmidt",
-    "age": 29,
-    "picturesrc": "images/employee_2.jpg",
-    "abteilung": "IT",
-    "id": 2
-  },
-  {
-    "firstName": "Jessica",
-    "lastName": "Downey",
-    "age": 44,
-    "picturesrc": "images/employee_3.jpg",
-    "abteilung": "Einkauf",
-    "id": 3
+    "id": 9
   }
 ]

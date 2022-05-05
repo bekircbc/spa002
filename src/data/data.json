@@ -1,0 +1,23 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 34,
+    "picturesrc": "images/employee_1.jpg",
+    "abteilung": "HR"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 34,
+    "picturesrc": "images/employee_1.jpg",
+    "abteilung": "HR"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 34,
+    "picturesrc": "images/employee_1.jpg",
+    "abteilung": "HR"
+  }
+]

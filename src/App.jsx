@@ -20,11 +20,13 @@ const filterAbteilung = (abt = "HR") => {
 function App() {
   return (
     <div className="App">
-      <h1>HR Abteilung</h1>
+      <h1>S Liebe Gmbh</h1>
+      <h2>Employee List</h2>
+      <h3>HR Abteilung</h3>
       <div className="abteilung">{filterAbteilung("HR")}</div>
-      <h1>IT Abteilung</h1>
+      <h3>IT Abteilung</h3>
       <div className="abteilung">{filterAbteilung("IT")}</div>
-      <h1>Einkauf Abteilung</h1>
+      <h3>Einkauf Abteilung</h3>
       <div className="abteilung">{filterAbteilung("Einkauf")}</div>
     </div>
   );

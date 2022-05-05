@@ -4,20 +4,23 @@
     "lastName": "Doe",
     "age": 34,
     "picturesrc": "images/employee_1.jpg",
-    "abteilung": "HR"
+    "abteilung": "HR",
+    "id": 1
   },
   {
-    "firstName": "John",
-    "lastName": "Doe",
-    "age": 34,
-    "picturesrc": "images/employee_1.jpg",
-    "abteilung": "HR"
+    "firstName": "Allan",
+    "lastName": "Schmidt",
+    "age": 29,
+    "picturesrc": "images/employee_2.jpg",
+    "abteilung": "IT",
+    "id": 2
   },
   {
-    "firstName": "John",
-    "lastName": "Doe",
-    "age": 34,
-    "picturesrc": "images/employee_1.jpg",
-    "abteilung": "HR"
+    "firstName": "Jessica",
+    "lastName": "Downey",
+    "age": 44,
+    "picturesrc": "images/employee_3.jpg",
+    "abteilung": "Einkauf",
+    "id": 3
   }
 ]
